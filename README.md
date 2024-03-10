@@ -1,0 +1,1 @@
+This repo is used to learn Hashicorp packer to build os image and deploy on digital ocean to use as a server.
